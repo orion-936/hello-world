@@ -1,6 +1,4 @@
 fenzhi
-<<<<<<< HEAD
+
 msster
-=======
-a
->>>>>>> a
+
